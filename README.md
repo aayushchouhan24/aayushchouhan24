@@ -95,6 +95,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aayushchouhan24/aayushchouhan24/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/aayushchouhan24/aayushchouhan24/blob/output/github-contribution-grid-snake.svg)
 ###
