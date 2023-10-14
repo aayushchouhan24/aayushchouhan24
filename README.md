@@ -47,8 +47,10 @@
 <img align="right" height="150" width="150" src="https://github.com/aayushchouhan24/aayushchouhan24/blob/output/logo.gif"  />
 
 <div align="left">
+    <a href="https://youtube.com/@aayushchouhan_24" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <a href="https://instagram.com/aayushchouhan_24?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
+     </a>
+    <a href="https://instagram.com/aayushchouhan_24?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/542424022764355587" target="_blank">
