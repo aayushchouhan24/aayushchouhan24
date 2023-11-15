@@ -44,7 +44,7 @@
 
 <h1></h1>
 <br clear="both">
-<img align="right" height="150" width="150" src="https://github.com/aayushchouhan24/aayushchouhan24/blob/output/logo.gif"  />
+<img align="right" height="150" width="150" src="https://cdn.jsdelivr.net/gh/aayushchouhan24/aayushchouhan24@main/logo.gif"  />
 
 <div align="left">
     <a href="https://youtube.com/@aayushchouhan_24" target="_blank">
