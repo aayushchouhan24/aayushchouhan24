@@ -34,8 +34,8 @@
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=threejs" alt="three logo" ><br><sub><sup>Three.js</td>
   </tr>
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=materialui" alt="material logo" ><br <sub><sup>>Material UI</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=tailwind" alt="tailwind logo" ><br><sub><sup>Tailwind CSS</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=materialui" alt="material logo"><br><sub><sup>Material UI</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=tailwind" alt="tailwind logo"><br><sub><sup>Tailwind CSS</td>
     <td align="center"><img height='30' src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="bootstrap logo" ><br><sub><sup>Bootstrap</td>
   </tr>
   
