@@ -3,7 +3,8 @@
     width="100%" />
 
 <h2 align="left">
-  👨‍💻 Hello, tech enthusiast here! I'm all about coding, 3D graphics, and innovation. Let's dive into the digital realm together! 🚀
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"  />
+  Hello, tech enthusiast here! I'm all about coding, 3D graphics, and innovation. Let's dive into the digital realm together! 🚀
 </h2>
 
 <div align="center">
@@ -20,6 +21,7 @@
 
 <br clear="both">
 
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/aayushchouhan24?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/aayushchouhan24?tab=followers"><img align="right" src="https://img.shields.io/github/followers/aayushchouhan24?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/aayushchouhan24">  <img align="right" src="https://komarev.com/ghpvc/?username=aayushchouhan24"></a>
 
 <div align="center">
   
