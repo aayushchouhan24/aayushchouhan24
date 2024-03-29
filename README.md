@@ -26,7 +26,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=aayushchouhan24&column=9&margin-w=11&margin-h=15&no-frame=true&theme=dracula)
 
 </div>
-  
+
+<div align="center"> 
+ 
 <table align="left">
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=mongodb" alt="mongodb logo" ><br><sub><sup>MongoDB</td>
@@ -92,7 +94,7 @@
   </tr>
 </table>
 
-
+</div>
 
 <div align="center">
   
