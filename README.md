@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="styles.css">
+
 <h2 align="left">👋 Hey, I'm Aayush Chouhan – an avid tech lover, code wrangler, and 3D graphics explorer. From game
   penetration testing to diving into Three.js, I'm on a journey to innovate and create in the digital realm. Let's
   connect and geek out together!
