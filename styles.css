@@ -1,4 +1,5 @@
  table {
+  color:'red';
     margin: 10px;
     border-collapse: collapse; /* Add borders to table cells */
   }
