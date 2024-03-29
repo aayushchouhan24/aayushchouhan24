@@ -1,9 +1,9 @@
-<h2 align="left">👋 Hey, I'm Aayush Chouhan – an avid tech lover, code wrangler, and 3D graphics explorer. From game
-  penetration testing to diving into Three.js, I'm on a journey to innovate and create in the digital realm. Let's
-  connect and geek out together!
+  <img
+    src="https://capsule-render.vercel.app/api?type=wave&height=300&color=0:8871e5,100:b678c4&text=I'm%20Aayush&reversal=true&fontColor=0&stroke=b9a2ff&desc=Chouhan&descAlign=64&descSize=40&descAlignY=60&fontAlign=47&fontAlignY=43&animation=twinkling&textBg=false"
+    width="100%" />
 
-🚀🎮🌌
-
+<h2 align="left">
+  👨‍💻 Hello, tech enthusiast here! I'm all about coding, 3D graphics, and innovation. Let's dive into the digital realm together! 🚀
 </h2>
 
 <div align="center">
@@ -93,6 +93,12 @@
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=figma" alt="figma logo" ><br><sub><sup>Figma</td>
   </tr>
 </table>
+
+
+<div align="center">  
+<br>
+<img align="center" width="30%"  src="https://media.tenor.com/dn5DhW18gB4AAAAi/throw-away-anime.gif" />
+</div>
 
 </div>
 
