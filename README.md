@@ -20,6 +20,12 @@
 
 <br clear="both">
 
+
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=aayushchouhan24&column=9&margin-w=11&margin-h=15&no-frame=true&theme=dracula)
+
+</div>
   
 <table align="left">
   <tr>
@@ -70,7 +76,7 @@
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" ><br><sub><sup>VS Code</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio logo" ><br><sub><sup>Visual Studio</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=idea" alt="idea logo" ><br><sub><sup>Intellij Idea</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=idea" alt="idea logo" ><br><sub><sup>Intellij IDE</td>
   </tr>
 
   <tr>
@@ -86,12 +92,14 @@
   </tr>
 </table>
 
-<h1></h1>
-<br clear="both">
-<br clear="both">
+
 
 <div align="center">
   
+<br clear="both">
+  <h1></h1>
+<br clear="both">
+
 [![youtube logo](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://youtube.com/@aayushchouhan_24)
 [![instagram logo](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/aayushchouhan_24?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 [![discord logo](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/542424022764355587)
@@ -101,7 +109,6 @@
 [![twitter logo](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com/Aayushchouhan24)
 [![twitch logo](https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge)](https://www.twitch.tv/techno_aayush)
 
-<br clear="both">
 <img alt="github-snake"
   src="https://cdn.jsdelivr.net/gh/aayushchouhan24/aayushchouhan24@output/github-contribution-grid-snake-dark.svg" />
   
