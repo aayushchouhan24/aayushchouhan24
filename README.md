@@ -99,7 +99,7 @@
 
 <div align="center">  
 <br>
-<img align="center" width="30%"  src="https://media.tenor.com/dn5DhW18gB4AAAAi/throw-away-anime.gif" />
+<img align="center" width="30%"  src="https://media.tenor.com/BFicsAlUcYkAAAAi/anime-dance.gif" />
 </div>
 
 </div>
