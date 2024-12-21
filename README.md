@@ -15,7 +15,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushchouhan24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
     height="150" alt="languages graph" />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aayushchouhan24&theme=dracula&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aayushchouhan24&theme=dracula&hide_border=0"
     height="150" alt="languages graph" />
 </div>
 
@@ -120,7 +120,7 @@
 [![twitch logo](https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge)](https://www.twitch.tv/techno_aayush)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aayushchouhan24/aayushchouhan24/refs/heads/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aayushchouhan24/aayushchouhan24/refs/heads/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aayushchouhan24/aayushchouhan24/refs/heads/output/github-contribution-grid-snake-dark.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/aayushchouhan24/aayushchouhan24/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
