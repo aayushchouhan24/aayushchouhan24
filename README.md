@@ -9,10 +9,10 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=aayushchouhan24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false"
+    src="https://aayush-readme-stats.vercel.app/api?username=aayushchouhan24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&hide_border=false"
     height="150" alt="stats graph" />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushchouhan24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+    src="https://aayush-readme-stats.vercel.app/api/top-langs?username=aayushchouhan24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide_border=false"
     height="150" alt="languages graph" />
   <img
     src="https://github-readme-streak-stats-mauve-ten.vercel.app?user=aayushchouhan24&theme=dracula&short_numbers=true&date_format=j%20M%5B%20Y%5D"
