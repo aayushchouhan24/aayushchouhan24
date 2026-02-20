@@ -57,19 +57,19 @@
   </tr>
 
   <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=c" alt="c logo" ><br><sub><sup>C</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=cpp" alt="cplusplus logo" ><br><sub><sup>C++</td>
+    <td align="center"><img height='30' src="https://slevesque.gallerycdn.vsassets.io/extensions/slevesque/shader/1.1.5/1612764634901/Microsoft.VisualStudio.Services.Icons.Default" alt="glsl logo" ><br><sub><sup>GLSL</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=cpp" alt="cplusplus logo" ><br><sub><sup>C/C++</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=ts" alt="typescript logo" ><br><sub><sup>TypeScript</td>
-
   </tr>
+  <tr>
+   <td align="center"><img height='30' src="https://skillicons.dev/icons?i=java" alt="java logo" ><br><sub><sup>Java</td>
+   <td align="center"><img height='30' src="https://skillicons.dev/icons?i=kotlin" alt="kotlin logo" ><br><sub><sup>Kotlin</td>
+   <td align="center"><img height='30' src="https://skillicons.dev/icons?i=py" alt="python logo" ><br><sub><sup>Python</td>
+ </tr>
 </table>
 
 <table align="right">
-  <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=java" alt="java logo" ><br><sub><sup>Java</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=kotlin" alt="kotlin logo" ><br><sub><sup>Kotlin</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=py" alt="python logo" ><br><sub><sup>Python</td>
-  </tr>
+
 
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=firebase" alt="firebase logo" ><br><sub><sup>Firebase</td>
@@ -82,6 +82,12 @@
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio logo" ><br><sub><sup>Visual Studio</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=idea" alt="idea logo" ><br><sub><sup>Intellij</td>
   </tr>
+      
+  <tr>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=arduino" alt="arduino logo" ><br><sub><sup>Arduino IDE</td>
+    <td align="center"><img height='30' src="https://images.icon-icons.com/3053/PNG/512/burp_suite_alt_macos_bigsur_icon_190317.png" alt="burp-suite logo" ><br><sub><sup>Burp Suite</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=docker" alt="docker logo" ><br><sub><sup>Docker</td>
+  </tr>
 
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio logo" ><br><sub><sup>Android Studio</td>
@@ -90,9 +96,14 @@
   </tr>
 
   <tr>
-    <td align="center"><img height='30' src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" alt="aftereffects logo" ><br><sub><sup>After Effects</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=blender" alt="blender logo" ><br><sub><sup>Blender</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=ae" alt="aftereffects logo" ><br><sub><sup>After Effects</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=figma" alt="figma logo" ><br><sub><sup>Figma</td>
+    <td align="center"><img height='30' src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="davinci resolve logo" ><br><sub><sup>Davinci Resolve</td>
+  </tr>
+  <tr>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=unreal" alt="unreal logo" ><br><sub><sup>Unreal Engine</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=blender" alt="blender logo" ><br><sub><sup>Blender</td>
+    <td align="center"><img height='30' src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/autodesk-fusion-360-icon.png" alt="fusion logo" ><br><sub><sup>Fusion 360</td>
   </tr>
 </table>
 
